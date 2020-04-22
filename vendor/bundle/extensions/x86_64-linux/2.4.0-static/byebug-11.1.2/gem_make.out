@@ -1,0 +1,19 @@
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/byebug-11.1.2/ext/byebug
+/home/fujiya/.rbenv/versions/2.4.6/bin/ruby -r ./siteconf20200422-318-1w17fum.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/byebug-11.1.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/byebug-11.1.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/byebug-11.1.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20200422-318-tntes5/byebug

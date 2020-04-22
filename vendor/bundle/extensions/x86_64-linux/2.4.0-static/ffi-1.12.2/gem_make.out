@@ -1,0 +1,48 @@
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/ffi-1.12.2/ext/ffi_c
+/home/fujiya/.rbenv/versions/2.4.6/bin/ruby -r ./siteconf20200422-318-w4a3wi.rb extconf.rb
+/home/fujiya/.rbenv/versions/2.4.6/lib/ruby/2.4.0/mkmf.rb:1552: warning: Insecure world writable dir /home/fujiya/.rbenv/versions in PATH, mode 040777
+checking for ffi_call() in -lffi... yes
+checking for ffi_closure_alloc()... yes
+checking for shlwapi.h... no
+checking for rb_thread_call_without_gvl()... yes
+checking for ruby_native_thread_p()... yes
+checking for ruby_thread_has_gvl_p()... yes
+checking for ffi_prep_cif_var()... yes
+checking for ffi_raw_call()... yes
+checking for ffi_prep_raw_closure()... yes
+creating extconf.h
+creating Makefile
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/ffi-1.12.2/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/ffi-1.12.2/ext/ffi_c
+make "DESTDIR="
+compiling AbstractMemory.c
+compiling ArrayType.c
+compiling Buffer.c
+compiling Call.c
+compiling ClosurePool.c
+compiling DynamicLibrary.c
+compiling Function.c
+compiling FunctionInfo.c
+compiling LastError.c
+compiling LongDouble.c
+compiling MappedType.c
+compiling MemoryPointer.c
+compiling MethodHandle.c
+compiling Platform.c
+compiling Pointer.c
+compiling Struct.c
+compiling StructByValue.c
+compiling StructLayout.c
+compiling Thread.c
+compiling Type.c
+compiling Types.c
+compiling Variadic.c
+compiling ffi.c
+linking shared-object ffi_c.so
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/ffi-1.12.2/ext/ffi_c
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200422-318-itpic

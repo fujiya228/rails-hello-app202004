@@ -1,0 +1,15 @@
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/home/fujiya/.rbenv/versions/2.4.6/bin/ruby -r ./siteconf20200422-318-lsbywk.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20200422-318-10iye76/skiptrace/internal

@@ -1,0 +1,15 @@
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+/home/fujiya/.rbenv/versions/2.4.6/bin/ruby -r ./siteconf20200422-318-kfth0.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/Users/syun6/01Terminal/10_hiroto&syunsuke/ruby-2.4.6__rails-5.2.3/hello-app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20200422-318-128yyxi
